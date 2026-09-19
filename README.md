@@ -2,7 +2,7 @@
 
 Independent audit of every identifiable UK research-peptide website, recording whether each publishes its **own verifiable Janoshik certificate of analysis (COA)** — a report from the independent laboratory Janoshik Analytical that names the vendor itself as the client and can be checked on Janoshik's own website.
 
-**Headline finding:** Just **7%** of active UK research-peptide sellers (26 of 386 audited) publish their own verifiable independent lab certificate. The other 93% show none, a borrowed one, a self-made one, or one that cannot be verified. (531 domains audited in total, including sites now dead or off-scope.)
+**Headline finding:** Just **7%** of active UK research-peptide sellers (26 of 388 audited) publish their own verifiable independent lab certificate. The other 93% show none, a borrowed one, a self-made one, or one that cannot be verified. (533 domains audited in total, including sites now dead or off-scope.)
 
 - **Source of record:** https://thepeptidewatch.com
 - **Live dataset (always current):** https://thepeptidewatch.com/data/vendors.json
